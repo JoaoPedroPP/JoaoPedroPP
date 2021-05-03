@@ -11,7 +11,7 @@ Feel free to follow me on my social media
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@joaopedropp)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/johnnypeterpp)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedropp&exclude_repo=TCC,k8-workshop,neoshop,Market-Share-Study,Preditor-de-Sucessos-Inteligente,Rijksmuseum-Color-Study,Demo-NLP-Flask&langs_count=8&layout=compact&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedropp&exclude_repo=TCC,k8-workshop,neoshop,Market-Share-Study,Preditor-de-Sucessos-Inteligente,Rijksmuseum-Color-Study,Demo-NLP-Flask&langs_count=6&layout=compact&hide=Jupyter%20Notebook,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
