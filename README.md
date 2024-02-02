@@ -6,9 +6,9 @@
 
 My name is João Pedro, but you can call me as JP, I'm Software Engineer who likes to solve problems and passionate about science and technology. During my life as a developer many problems I faced I shared my solutions here and when I was not able to solve alone I found many people here with similar problems and willing to help, and that is the thing I most admire about Open Source.
 
-Here you can find some porjects I did in my life, most of them related with C, Node.js, Python, Angular 2, some of them with deploy script in containers and kubernetes.
+Here you can find some porjects I did in my life, most of them related with C, Node.js, Python, Angular, some of them with deploy script in containers and kubernetes.
 
-- 🔭 I’m currently working as Cloud Engineer at IBM.
+- 🔭 I’m currently working as Software Engineer at Red Hat Inc.
 - 🌱 Learning new things is what keeps me alive and I’m currently learning the technologies below
   - 🧬 GAN in AI systems
   - 🦀 Rust
